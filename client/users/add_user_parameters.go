@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/go-swagger/go-swagger/examples/go-usersclient/models"
+	"github.com/GagandeepKumar92/go-usersclient/models"
 )
 
 // NewAddUserParams creates a new AddUserParams object,

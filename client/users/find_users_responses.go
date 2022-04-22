@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/go-swagger/go-swagger/examples/go-usersclient/models"
+	"github.com/GagandeepKumar92/go-usersclient/models"
 )
 
 // FindUsersReader is a Reader for the FindUsers structure.
